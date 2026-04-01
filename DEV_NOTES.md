@@ -16,3 +16,8 @@ Personal development log — notes, findings, and ongoing work.
 - Added inline documentation for core functions
 - Improved log message formatting
 - Fixed minor edge case in input handling
+
+## 2026-04-01
+- Added basic usage examples to README
+- Pinned dependency versions for reproducibility
+- Consolidated duplicate helper functions
