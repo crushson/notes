@@ -21,3 +21,6 @@ Personal development log — notes, findings, and ongoing work.
 - Added basic usage examples to README
 - Pinned dependency versions for reproducibility
 - Consolidated duplicate helper functions
+
+## 2026-04-08
+- Updated license year
